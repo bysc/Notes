@@ -1,0 +1,133 @@
+[TOC]
+# description
+> remember words in groups.
+# words groups
+---
+ - blunt(钝的，直率的)
+ - blunder(错误，犯错误)
+---
+ - booth(货摊，公用电话厅) phone booth 公用电话亭
+ - boost(推动，促进) boost up 向上推
+---
+ - bowel(肠，内部) small bowel 小肠
+ - bow(鞠躬)
+ - bowl(碗)
+---
+ - brew(酿造，啤酒) brew up 酿造
+ - brow(眉毛) 
+ - blow(吹)
+ - crew(全体成员)
+ - sew(缝合) sew up 缝合，缝入；确保…的成功
+ - chew(咀嚼)
+---
+ - copper(铜)
+ - bronze(黄铜)
+ - brass(青铜)
+ - calcium(钙)
+---
+ - bruise(擦伤、受伤)
+ - cruise(巡航)
+---
+ - buck(钱，雄鹿)
+ - duck(鸭子)
+ - bull(公牛)
+---
+ - brink(边缘)
+ - blink(眨眼)
+ - blind(瞎的)
+ - brisk(轻快的，敏锐的)
+---
+ - calorie(卡路里) calorie value 热量值，卡值
+ - cholesterol(胆固醇)
+---
+ - cane(藤条编织成的手杖，藤条) cane sugar 蔗糖
+ - cannon(大炮)
+ - canvas(帆布)
+ - stick(木制手杖)
+---
+ - cardinal(基本的，首要的，红衣主教) cardinal number 基数
+ - cathedral(总教堂、大教堂)
+ - Catholic(天主教的)
+ - chapel(小教堂)
+---
+ - census(人口普查)
+ - sensus(感觉)
+---
+ - cereal(谷物)
+---
+ - certify(证明)
+ - verify(核实、查证)
+---
+ - chase(追逐、追赶)
+ - cherish(珍爱、珍视)
+ - chief(主要的，首要的)
+---
+ - chunk(大块，矮胖的人或物) 
+ - cluster(串，簇)
+ - bulk(使扩大，大多数) the bulk of 大多数
+---
+ - bump 主要指具体东西的有力碰撞，也可指碰到困难或障碍。
+ - clash 指有力的或带有金属碰击声的打、敲或相互冲击。
+ - collide 多指带毁坏性的猛烈相撞，也可指严重的直接冲突。
+ - conflict 这个词以前可表具体东西的撞击，现在常指冲突或对立。
+---
+ - clap(鼓掌)
+ - clasp(扣子，扣住)
+ - clamp(夹子)
+---
+ - `pet->seek`
+ - compete(竞争)
+ - competition(比赛，竞争) 
+ - competitive(竞争的)
+ - competitor(竞争者)
+ - >note
+ - competent(有能力的，能胜任的)
+ - competence(能力)
+---
+ - `plex,plic->fold`
+ - complex(复杂的，合成的)
+ - complexion(面色，肤色，局面)
+ - complicated(结构复杂的)
+ - complication(困难，问题，并发症)
+---
+ - `pound,pon->put`
+ - compound(混合，合成，和解，妥协)
+ - component(元件，组成部分)
+ - >another
+ - `pos,posit->put`
+ - compose(组成，构成，创作)
+ - composite(混合成的)
+---
+ - `mand,mend->order`
+ - command(命令) 
+ - commend(推荐，称赞)
+ - > another word
+ - commence(开始，着手,v) `init->beginning`
+ - comment(评论) `ment->mind`
+---
+ - `struct->build`
+ - construct(建立，修建，组成)
+ - 这里是列表文本
+ - instruct(命令，指令)
+ - `duc->to lead`
+ - conduce(导致，有益于)
+ - introduce(介绍，引进)
+---
+ - `tempt->scorn(藐视)`
+ - contempt(轻视，藐视)
+ - templ->temple
+ - contemplate(深思，凝视，注视)
+---
+ - `oper->work`
+ - cooperate(合作，协助)
+ - `corp,corpor->body`
+ - corporate(社团的，法人的)
+ - corpse(尸体)
+ - corps(军队，兵种)
+---
+ - `spond->promise`
+ - corresponding(相当的，对应的，一致的)
+ - correspondence(信件，通信，一致)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA4MzExNTIxOCwtODY4MDQ0OTAxXX0=
+-->
