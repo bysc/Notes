@@ -24,9 +24,9 @@ $ \uparrow$
 
 $$ \int_0^5f(x)dx $$
 
-$$\lim_{x \to \infty}F(x) $$
+$$ \lim_{x \to \infty}F(x) $$
 
-$$\sum_{i=0}^nx_i$$
+$$\sum_{i=0}^nx_i$+i$
 
 $\alpha\pm\beta=\pi$
 
@@ -65,5 +65,5 @@ g(x)&j=1
 \end{cases}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODkyMDMzM119
+eyJoaXN0b3J5IjpbMTg3MjQ0NDE3NywxOTU4OTIwMzMzXX0=
 -->
